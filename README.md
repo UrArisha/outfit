@@ -1,1 +1,1 @@
-# outfit
+# lbrenes-outfit-api
